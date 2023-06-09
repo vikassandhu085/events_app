@@ -1,4 +1,4 @@
-import EventCard from '@/components/events/eventcard';
+import EventCard from '@/components/events/eventCard';
 
 const EventPage = ({data}) => <EventCard data={data} />
 
